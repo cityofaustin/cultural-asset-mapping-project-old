@@ -1,1 +1,0 @@
-# cultural-asset-mapping-project
