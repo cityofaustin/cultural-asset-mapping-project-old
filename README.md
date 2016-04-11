@@ -15,3 +15,7 @@ The goals of this project are to collect information about the locations of cult
 - link to form on airtable: https://airtable.com/shrGOmXwHyXWRz0Dy
 - link to view project website: http://cityofaustin.github.io/cultural-asset-mapping-project
 - map on cartoDB: https://shirleyanna.cartodb.com/viz/eaed2566-fd93-11e5-b3a9-0e8c56e2ffdb/public_map
+
+### Contact
+For general project questions, please contact [Shirley Rempe](shirley.rempe@austintexas.gov) at the Economic Development Department. <br/>
+For technical questions, contact [Hailey Pate](hailey.pate@austintexas.gov).
