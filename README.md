@@ -7,7 +7,7 @@ This repository is used to do three main things:
 - Keep project-related discussions and action items organized in one place
 
 ### About the Cultural Asset Mapping Project
-The goals of this project are to collect information about the locations of cultural assets across the City of Austin and then publish that information to data.austintexas.gov. A public web form will be used to gather the information during a specific survey period, then the data will be published to the portal. More information about the project will be published to http://cityofaustin.github.io/cultural-asset-mapping-project.
+The goals of this project are to collect information about the locations of cultural assets across the City of Austin through crowdsourced mapping and then publish that information to data.austintexas.gov. A public web form will be used to gather the information during a specific survey period, then the data will be published to the portal. More information about the project will be published to http://cityofaustin.github.io/cultural-asset-mapping-project.
 
 ### Project resources
 - GitHub Markdown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
